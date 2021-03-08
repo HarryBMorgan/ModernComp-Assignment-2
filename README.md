@@ -7,5 +7,5 @@ This is the Git of my second coursework assignment for Modern Computational Tech
 2) Create a programme that uses the fast fourier transform to calculate the coefficients of the fourier series of a discrete set of data. To check the coefficients are correct, generate the continous truncated fourier function and plot it against the origional data.
 3) Use the Monte Carlo techniques to calcuate the "volume" of the unit n-ball for dimensions of 2 to 15. Plot the volumes against the dimensions.
 
-Results are back - 85%
+Results are back - 86%
 I am a happy boy :)
